@@ -1,0 +1,28 @@
+*local system*
+mkdir <make dir>
+
+cd <folder name>
+
+touch <file-name>
+
+--------------------------
+
+*Cloud*
+
+
+git init
+
+git clone https://github.com/techtrainer20/remote.git
+
+git status (red-local ; green-cloud )
+
+git log 
+
+git add .  // cloud
+
+
+git commit -m "msg"
+
+git push
+
+

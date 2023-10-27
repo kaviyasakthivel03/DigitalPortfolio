@@ -1,0 +1,36 @@
+
+sign up
+email
+password
+username
+type y or n
+puzzle---- audio listen--2 --Verify
+create account
+code sent to mail id --enter code
+age-student or teacher
+community
+GitHub dashboard
+your profile
+repositories
+new
+owner name -username  ,,, repository name --digital portfolio
+choose public
+add readme file
+create repository
+add file -- upload file--choose your files
+select all your files from the computer
+commit changes
+rename your HTML file  as index .html and commit changes
+
+go to settings
+ click the page from the left side
+branch-- master--root-save
+wait for 5-10 minutes
+you will get a link Your site is live at https://nanthinimoha.github.io/Digital-Portfolio/
+Last deployed by @NanthiniMoha NanthiniMoha 2 hours ago
+
+
+
+
+
+
